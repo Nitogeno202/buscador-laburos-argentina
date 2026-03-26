@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Archivos generados por el script
+empleos_*.pdf
+
+# Entornos y configuraciones personales
+.env
+.vscode/
+.idea/
